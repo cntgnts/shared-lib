@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
-def hello(my-name) {
-  echo "hello ${my-name}"
+
+def hello(name) {
+  echo "hello ${name}"
 }
