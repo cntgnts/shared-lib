@@ -1,4 +1,4 @@
 
-def hello(name) {
-  echo "hello ${name}"
+def add(x,y) {
+  echo "Addition is  ${x+y}"
 }
